@@ -1,0 +1,19 @@
+{
+  "app_name": "startup-revenue-insights-tracker",
+  "repository": "startup-revenue-insights-tracker",
+  "branch": "main",
+  "main_file": "dashboard.py",
+  "python_version": "3.11",
+  "description": "Professional Business Intelligence Platform - Top 20 Startup Opportunities with Complete Tech Stacks",
+  "features": [
+    "Top 20 Business Opportunities with detailed analysis",
+    "Complete tech stack recommendations",
+    "Revenue projection tools",
+    "Interactive market analysis",
+    "Professional presentation ready",
+    "Implementation roadmaps"
+  ],
+  "expected_url": "https://startup-revenue-insights-tracker.streamlit.app",
+  "deployment_ready": true,
+  "status": "ready_for_deployment"
+}
